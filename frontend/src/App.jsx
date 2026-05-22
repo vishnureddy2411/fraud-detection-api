@@ -1,6 +1,6 @@
 import { useState } from "react"
 
-const API_URL = "http://13.58.9.146"
+const API_URL = "/api"
 
 const TRANSACTIONS = [
   {
