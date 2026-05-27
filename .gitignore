@@ -13,8 +13,7 @@ __pycache__/
 # Data and models — too large for GitHub
 data/
 *.csv
-models/
-*.pkl
+
 
 # Build artifacts
 *.egg-info/
